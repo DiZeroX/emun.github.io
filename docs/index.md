@@ -14,7 +14,19 @@ ericmun17@gmail.com
 
 ### Projects
 
-- Project 1
-  - Project details
-- Project 2
-  - Project details
+- Voting Data Editor
+  - Web app that visualizes voting data on a geographic map and flags possible errors
+  - Users can fix errors and flag new errors on a precinct-level
+  - Preprocessed state election voting data by standardizing data formats, flags possible errors, clean geographic data
+  - Implemented using Python scripts, React-Redux, SQL
+- The Shield Hero Game 
+  - Web app game based on blocking projectiles with the correct colored shield in an action-based memorization game
+  - Implemented with JavaScript and the Phaser 3 game engine
+  - https://the-shield-hero.firebaseapp.com/
+ ![The Shield Hero](../assets/shield-hero.png)
+
+- Anti-Tabnabbing Browser Extension
+  - Chrome extension that notifies user if a tab has changed contents while minimized (type of cyber attack)
+  - Changed contents are highlighted red
+  - Has whitelist/blacklist for websites
+![Tabnabber](../assets/tabnabber.png)
