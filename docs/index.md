@@ -23,10 +23,10 @@ ericmun17@gmail.com
   - Web app game based on blocking projectiles with the correct colored shield in an action-based memorization game
   - Implemented with JavaScript and the Phaser 3 game engine
   - https://the-shield-hero.firebaseapp.com/
- ![The Shield Hero](../assets/shield-hero.png)
+ ![The Shield Hero](assets/shield-hero.png)
 
 - Anti-Tabnabbing Browser Extension
   - Chrome extension that notifies user if a tab has changed contents while minimized (type of cyber attack)
   - Changed contents are highlighted red
   - Has whitelist/blacklist for websites
-![Tabnabber](../assets/tabnabber.png)
+![Tabnabber](assets/tabnabber.png)
