@@ -20,7 +20,7 @@ ericmun17@gmail.com
   - Preprocessed state election voting data by standardizing data formats, flags possible errors, clean geographic data
   - Implemented using Python scripts, React-Redux, SQL
   
-![Gerrysaddening](assets/images/gerrysaddening.png)
+![Gerrysaddening](assets/images/gerrysaddening.PNG)
 - The Shield Hero Game 
   - Web app game based on blocking projectiles with the correct colored shield in an action-based memorization game
   - Implemented with JavaScript and the Phaser 3 game engine
@@ -33,4 +33,4 @@ ericmun17@gmail.com
   - Changed contents are highlighted red
   - Has whitelist/blacklist for websites
   
-![Tabnabber](assets/images/tabnabber.png)
+![Tabnabber](assets/images/tabnabber.PNG)
