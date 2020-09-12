@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Eric Mun
 
-You can use the [editor on GitHub](https://github.com/DiZeroX/emun.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Biography
+![Eric Mun Picture](https://media-exp1.licdn.com/dms/image/C4D03AQG5fihX7Vn12A/profile-displayphoto-shrink_400_400/0?e=1605139200&v=beta&t=tqOkVAoUomIY5RKpMRYj0pPTcGQO1zSt6WvoE9WOQv4)
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Insert Bio here
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
+**Email Address:** ericmun17@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/eric-mun-313319167/
 
-### Jekyll Themes
+### Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DiZeroX/emun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Project 1
+  - Project details
+- Project 2
+  -Project details
