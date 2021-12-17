@@ -1,6 +1,6 @@
 # Eric Mun
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQG5fihX7Vn12A/profile-displayphoto-shrink_400_400/0?e=1611187200&v=beta&t=yLnRstx-vlnJ4b20uS5-gLlC-YDiCJgzoJvigs1bmow" width="200" height="200" />
+<img src="assets/images/headshot.png" width="200" height="200" />
 
 ### Biography
 Eric Mun currently works at Rightpoint as an e-commerce web developer. He studied computer science and digital art at Stony Brook University. Eric enjoys playing tabletop games with friends, acting as a community moderator and game designer for a tabletop community on Discord with 1000+ members.
